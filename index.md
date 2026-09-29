@@ -58,10 +58,10 @@ With nearly two decades of experience in NLP, I lead and contribute to national 
 
 ## 📄 Quick Links
 - [Download CV (PDF)](/files/SarvnazKarimi_CV.pdf)  
-- [CSIRO Profile](https://people.csiro.au/K/S/Sarvnaz-Karimi)  
+- [Monash Profile](https://research.monash.edu/en/persons/sarvnaz-karimi/)  
 - [Google Scholar](https://goo.gl/KoTmwz)  
 - [LinkedIn](https://www.linkedin.com/in/sarvnaz-karimi-64ab491)
 
 ---
 
-© 2025 Dr Sarvnaz Karimi · Built with [AcademicPages](https://academicpages.github.io)
+© 2026 Sarvnaz Karimi · Built with [AcademicPages](https://academicpages.github.io)
