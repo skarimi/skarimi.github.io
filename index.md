@@ -34,11 +34,12 @@ With nearly two decades of experience in NLP, I lead and contribute to national 
 ---
 
 ## 🔬 Research Focus
-- Biomedical and clinical text mining  
-- Large Language Models (LLMs) for science  
-- Information retrieval and evaluation  
-- NLP for health, climate, and agriculture  
-- Trustworthy and explainable AI  
+- Biomedical and clinical NLP
+- NLP for science, health, climate, and agriculture
+- Information retrieval and RAGs 
+- Evaluation of Large Language Models (LLMs) 
+- Trustworthy and explainable AI
+- Reasoning  
 
 [Learn more →](/research/)  
 
