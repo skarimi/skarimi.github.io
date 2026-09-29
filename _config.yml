@@ -1,8 +1,8 @@
 # _config.yml
-title: "Dr Sarvnaz Karimi"
-email: sarvnaz.karimi@csiro.au
+title: "A/Prof Sarvnaz Karimi"
+email: sarvnaz.karimi@monash.edu
 description: >
-  Principal Research Scientist at CSIRO Data61
+  Associate Professor, Monash University
 baseurl: ""
 url: "https://skarimi.github.io"
 github_username: sarvnazkarimi
@@ -21,10 +21,10 @@ include:
   - _data
 
 author:
-  name: Dr Sarvnaz Karimi
+  name: A/Prof Sarvnaz Karimi
   avatar: /images/Sarvnaz.jpg
   bio: Principal Research Scientist at CSIRO Data61
-  location: Sydney, NSW, Australia
+  location: Clayton, VIC, Australia
   uri: https://people.csiro.au/K/S/Sarvnaz-Karimi
   email: sarvnaz.karimi@csiro.au
   linkedin: https://www.linkedin.com/in/sarvnaz-karimi-phd-64ab491/
