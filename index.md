@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Dr Sarvnaz Karimi"
+title: "A/Prof Sarvnaz Karimi"
 permalink: /
 profile:
   align: right
@@ -8,11 +8,11 @@ profile:
   address: |
     CSIRO Data61  
     Marsfield NSW, Australia  
-    <br>Email: <a href="mailto:sarvnaz.karimi@csiro.au">sarvnaz.karimi@csiro.au</a>
+    <br>Email: <a href="mailto:sarvnaz.karimi@monash.edu">sarvnaz.karimi@monash.edu</a>
   social:
     - icon: fa-solid fa-globe
-      label: CSIRO Profile
-      url: https://people.csiro.au/K/S/Sarvnaz-Karimi
+      label: Monash Profile
+      url: https://research.monash.edu/en/persons/sarvnaz-karimi/
     - icon: fa-brands fa-linkedin
       label: LinkedIn
       url: https://www.linkedin.com/in/sarvnaz-karimi-64ab491
@@ -24,8 +24,8 @@ profile:
       url: /files/SarvnazKarimi_CV.pdf
 ---
 
-# Dr Sarvnaz Karimi  
-**Principal Research Scientist — CSIRO Data61**
+# A/Prof Sarvnaz Karimi  
+**Associate Professor of NLP, Monash University**
 
 I am a Principal Research Scientist leading cross-disciplinary research in **Natural Language Processing (NLP)**, **Information Retrieval (IR)**, and **Applied Artificial Intelligence (AI)**. My work focuses on developing language technologies that advance **digital health**, **biomedical text mining**, and **climate adaptation**.
 
